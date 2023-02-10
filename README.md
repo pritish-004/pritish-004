@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pritish! <br/><a href="https://github.com/pritish-004">Programmer</a>, <a href="https://www.linkedin.com/in/pritish-naik/">Blockchain Professional</a></h1>
+<h1>Hi, I'm Pritish! <br/><a href="https://github.com/pritish-004">Programmer</a>, <a href="https://www.linkedin.com/in/pritish-naik/">Blockchain Enthusiast</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -21,7 +21,9 @@
   - [Distributed Database management system for forest related activities](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Distributed%20Database%20management%20system)
 
 - <b>Web and Social Computing </b>
-  - [Course assignment](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Web%20and%20social%20computing)
+  - [Course assignments](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Web%20and%20social%20computing)
+<h2> 🤳 Connect with me:</h2>
+  - [Exploring ADR of diabetes medicine using social media analytics and interactive visualizations](https://github.com/pritish-004/Exploring-ADR-of-diabetes-medicine-using-social-media-analytics-and-interactive-visualizations)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Pritish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
