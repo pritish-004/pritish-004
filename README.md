@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Cyber Security project (AlgoExpert)</b>
+- <b>Cyber Security project</b>
   - [Cyber Security project](https://github.com/pritish-004/APT-GET-Vulnerability-exploit)
 - <b>Full Stack Web App (React, Python, Blockchain)</b>
-  - [Vaccine supplychain using Blockchain abd Encrypted QR code](https://github.com/pritish-004/Vaccine-Blocks)
+  - [Vaccine supplychain using Blockchain and Encrypted QR code](https://github.com/pritish-004/Vaccine-Blocks)
 - <b>Coursera projects</b>
   - [Applied social network analysis using python](https://github.com/pritish-004/Coursera-Projects/tree/main/Applied-Social-Network-Analysis-in-Python-Course-work-Assignments)
   - [Google crash course on python](https://github.com/pritish-004/Coursera-Projects/tree/main/Crash-course-on-python)
