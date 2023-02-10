@@ -13,7 +13,15 @@
 - <b>Computer Networks project</b>
   - [Multi-location Network Implementation using Cisco Packet Tracer](https://github.com/pritish-004/Multi-location-Network-Implementation-using-Cisco-Packet-Tracer)
 
+- <b>Advanced Time Series Analysis project </b>
+  - [Correlation between COVID 19 and Eicher motors stock price](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Advanced%20Time%20Series%20Analysis/correlation%20between%20COVID%2019%20and%20Eicher%20motors%20stock%20price)
+  - [Correlation between Crude Oil and Eicher motors stock price](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Advanced%20Time%20Series%20Analysis/correlation%20between%20Crude%20oil%20and%20Eicher%20motors%20stock%20prices)
 
+- <b>Distributed Database management system </b>
+  - [Distributed Database management system for forest related activities](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Distributed%20Database%20management%20system)
+
+- <b>Web and Social Computing </b>
+  - [Course assignment](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Web%20and%20social%20computing)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Pritish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
