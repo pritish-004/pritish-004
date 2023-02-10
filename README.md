@@ -22,9 +22,7 @@
 
 - <b>Web and Social Computing </b>
   - [Course assignments](https://github.com/pritish-004/Masters-Notes-Assignments/tree/main/Web%20and%20social%20computing)
-<h2> 🤳 Connect with me:</h2>
   - [Exploring ADR of diabetes medicine using social media analytics and interactive visualizations](https://github.com/pritish-004/Exploring-ADR-of-diabetes-medicine-using-social-media-analytics-and-interactive-visualizations)
-
 
 
 <h2> 🤳 Connect with me:</h2>
