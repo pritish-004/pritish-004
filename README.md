@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Cyber Security project</b>
-  - [Cyber Security project](https://github.com/pritish-004/APT-GET-Vulnerability-exploit)
+  - [APT-GET Vulnerability exploit](https://github.com/pritish-004/APT-GET-Vulnerability-exploit)
 - <b>Full Stack Web App (React, Python, Blockchain)</b>
   - [Vaccine supplychain using Blockchain and Encrypted QR code](https://github.com/pritish-004/Vaccine-Blocks)
 - <b>Coursera projects</b>
