@@ -1,5 +1,7 @@
 <h1>Hi, I'm Pritish! <br/><a href="https://github.com/pritish-004"> Water Quality Researcher  </a>, <a href="https://www.linkedin.com/in/pritish-naik/"> Deep learning </a></h1>
 
+<h2>👨‍💻 Water Quality Research projects:</h2>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Cyber Security project</b>
@@ -30,19 +32,3 @@
 [<img align="left" alt="Pritish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/pritish-naik/
-
-
-<!--
-**pritish-004/pritish-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
