@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pritish! <br/><a href="https://github.com/pritish-004">Programmer</a>, <a href="https://www.linkedin.com/in/pritish-naik/">Blockchain Enthusiast</a></h1>
+<h1>Hi, I'm Pritish! <br/><a href="https://github.com/pritish-004"> Water Quality Researcher  </a>, <a href="https://www.linkedin.com/in/pritish-naik/"> Deep learning </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
